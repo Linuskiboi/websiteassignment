@@ -1,0 +1,36 @@
+h1  {
+     font-family:Times;
+	 font-size:"12";
+	 color:blue;
+	 }*/
+.body {
+      background-color:cyan;
+      text-align:centre;
+	  }
+.p   {
+		 font-size:12;
+		 color:black;
+	 }
+/*.linus {
+            float:left;
+            list-style:none;
+			margin-top:30px
+            }
+.linus ul {
+               display:inline-block;
+              }
+                    
+.linus ul li {
+                 font-size:11px;
+                 color:white;
+				 font-family:Times;
+				 display:inline-block;
+				}
+.linus ul li a {
+                        border:1px solid white;
+					 }
+.linus ul li a:hover {
+                       border: 1px solid white;
+					  }
+
+	 
